@@ -127,7 +127,10 @@ Professeur à l’ENA Meknès
 📞 06 61 44 02 99
 
 ---
-[Download my Resume (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/PDF_SALAH_EDDINE_HAMMOUYAT.pdf)
+[Télécharger mon CV (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/PDF_SALAH_EDDINE_HAMMOUYAT.pdf)
+
+[Download my Resume (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/ENG_SALAH_EDDINE_HAMMOUYAT.pdf)
+
 
 ---
 > *CV en ligne – Dernière mise à jour : Janvier 2026*
