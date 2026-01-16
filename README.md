@@ -1,4 +1,3 @@
-# Salah Eddine HAMMOUYAT  
 ### Ingénieur Agronome | Technico-Commercial
 
 
