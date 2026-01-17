@@ -18,14 +18,15 @@
 
 ---
 
-## 🌾 Profil professionnel
+##  Profil professionnel
 
-Ingénieur d’État en agronomie, spécialisé en **sciences et techniques des productions végétales**, avec une expérience confirmée en **production semencière**, **développement commercial agricole** et **agriculture de précision**.  
-Je combine **expertise terrain**, **analyse de données** et **outils numériques** afin de contribuer à la performance, à l’innovation et à la durabilité du secteur agricole.
+Ingénieur d’État en agronomie, spécialisé en **sciences et techniques des productions végétales**, avec une expérience confirmée en **production semencière**, **développement commercial agricole** et **agriculture de précision**. 
+
+Je combine **expertise terrain**, **analyse de données** et **outils numériques** — nourris par une auto-formation continue en **finance**, **marketing** et **numérique** — afin de contribuer à la performance, à l’innovation et à la durabilité du secteur agricole.
 
 ---
 
-## 🎓 Diplômes & Formations
+##  Diplômes & Formations
 
 ### Ingénieur d’État en Agronomie  
 **École Nationale d’Agriculture de Meknès (ENA)** – Meknès  
@@ -44,9 +45,9 @@ Je combine **expertise terrain**, **analyse de données** et **outils numérique
 
 ---
 
-## 💼 Expériences professionnelles
+##  Expériences professionnelles
 
-### 🌱 Technico-Commercial  
+###  Technico-Commercial  
 **SONACOS – Société Nationale de Commercialisation des Semences**  
 📍 Sidi Kacem | *Depuis février 2024*
 
@@ -65,7 +66,7 @@ Je combine **expertise terrain**, **analyse de données** et **outils numérique
 
 ---
 
-### 📊 Enquêteur Socio-Économique  
+###  Enquêteur Socio-Économique  
 **JICA – Japan International Cooperation Agency**  
 📍 Kénitra | *Janvier 2023 – Décembre 2023*
 
@@ -78,7 +79,7 @@ Projet de développement du système d’irrigation de la région du Gharb.
 
 ---
 
-## 🧠 Compétences clés
+##  Compétences clés
 
 - Gestion de la production semencière et logistique
 - Agriculture de précision (imagerie satellite & drone)
@@ -91,7 +92,7 @@ Projet de développement du système d’irrigation de la région du Gharb.
 
 ---
 
-## 💻 Compétences numériques & outils
+##  Compétences numériques & outils
 
 - **ERP & Gestion :** SAP (modules clés), Odoo (bases)
 - **Analyse de données :** Excel, SPSS
@@ -102,7 +103,7 @@ Projet de développement du système d’irrigation de la région du Gharb.
 
 ---
 
-## 🌍 Langues
+##  Langues
 
 - Arabe : Langue maternelle  
 - Français : Courant  
@@ -110,21 +111,19 @@ Projet de développement du système d’irrigation de la région du Gharb.
 
 ---
 
-## 🌱 Centres d’intérêt
-
-- Innovations en agriculture de précision (drones, IoT, IA)
-- Participation à des salons agricoles (SIAM, événements professionnels)
-- Randonnée et observation des écosystèmes agricoles
-- Auto-formation : finance, marketing, outils numériques
-
----
-
-## 📌 Référence académique
+##  Références
 
 **Pr. Rachid Bouabid, PhD – PES**  
 Professeur à l’ENA Meknès  
 📧 [rbouabid@enameknes.ac.ma]((mailto:rbouabid@enameknes.ac.ma))  
 📞 06 61 44 02 99
+
+
+**Mr. Karim HOUSNY**  
+Directeur régional SONACOS  
+📧 [housnikarim@hotmail.com]((mailto:housnikarim@hotmail.com))
+
+📞 06 61 90 95 01
 
 ---
 [Télécharger mon CV (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/PDF_SALAH_EDDINE_HAMMOUYAT.pdf)
