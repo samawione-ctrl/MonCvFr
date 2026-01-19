@@ -27,17 +27,17 @@ Ingénieur Technico-commercial dans le secteur semencier, je valorise les soluti
 
 ##  Diplômes & Formations
 
-### Ingénieur d’État en Agronomie  
+### -Ingénieur d’État en Agronomie  
 **École Nationale d’Agriculture de Meknès (ENA)** – Meknès  
 *2017 – 2022*  
 **Filière :** Sciences et Techniques des Productions Végétales
 
-### Programme Erasmus – Projet de Fin d’Études  
+### -Programme Erasmus – Projet de Fin d’Études  
 **Université de Szeged** – Hongrie  
 *Avril 2022 – Septembre 2022*  
 **Sujet :** Développement d’un modèle prédictif du rendement du blé tendre basé sur l’imagerie drone (agriculture de précision)
 
-### Baccalauréat Sciences Physiques  
+### -Baccalauréat Sciences Physiques  
 **Lycée Driss BenZekri** – Tiflet  
 *2016 – 2017*  
 **Mention :** Très Bien
@@ -46,7 +46,7 @@ Ingénieur Technico-commercial dans le secteur semencier, je valorise les soluti
 
 ##  Expériences professionnelles
 
-###  Technico-Commercial  
+###  -Technico-Commercial  
 **SONACOS – Société Nationale de Commercialisation des Semences**  
 📍 Sidi Kacem | *Depuis février 2024*
 
@@ -65,7 +65,7 @@ Ingénieur Technico-commercial dans le secteur semencier, je valorise les soluti
 
 ---
 
-###  Enquêteur Socio-Économique  
+###  -Enquêteur Socio-Économique  
 **JICA – Japan International Cooperation Agency**  
 📍 Kénitra | *Janvier 2023 – Décembre 2023*
 
