@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Informations personnelles
+##  Informations personnelles
 
 | | |
 | :--- | :--- |
@@ -20,9 +20,8 @@
 
 ##  Profil professionnel
 
-Ingénieur d’État en agronomie, spécialisé en **sciences et techniques des productions végétales**, avec une expérience confirmée en **production semencière**, **développement commercial agricole** et **agriculture de précision**. 
 
-Je combine **expertise terrain**, **analyse de données** et **outils numériques** — nourris par une auto-formation continue en **finance**, **marketing** et **numérique** — afin de contribuer à la performance, à l’innovation et à la durabilité du secteur agricole.
+Ingénieur Technico-commercial dans le secteur semencier, je valorise les solutions pour les agriculteurs en combinant mon expertise agronomique avec des **outils d'aide à la décision**. Pour enrichir mon approche et mieux conseiller mes clients, je développe en parallèle des compétences complémentaires en **finance**, **marketing** et **programmation**. Mon objectif est d'apporter une **vision globale et innovante** au service du développement de la filière.
 
 ---
 
@@ -94,7 +93,7 @@ Projet de développement du système d’irrigation de la région du Gharb.
 
 ##  Compétences numériques & outils
 
-- **ERP & Gestion :** SAP (modules clés), Odoo (bases)
+- **ERP & Gestion :** SAP (modules clés)
 - **Analyse de données :** Excel, SPSS
 - **SIG & cartographie :** QGIS, ArcGIS
 - **Géospatial :** Google Earth Engine (GEE)
@@ -116,6 +115,7 @@ Projet de développement du système d’irrigation de la région du Gharb.
 **Pr. Rachid Bouabid, PhD – PES**  
 Professeur à l’ENA Meknès  
 📧 [rbouabid@enameknes.ac.ma]((mailto:rbouabid@enameknes.ac.ma))  
+
 📞 06 61 44 02 99
 
 
@@ -126,9 +126,9 @@ Directeur régional SONACOS
 📞 06 61 90 95 01
 
 ---
-[Télécharger mon CV (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/PDF_SALAH_EDDINE_HAMMOUYAT.pdf)
+[Télécharger mon CV (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/FR_HAMMOUYAT.pdf)
 
-[Download my Resume (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/ENG_SALAH_EDDINE_HAMMOUYAT.pdf)
+[Download my Resume (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/ENG_HAMMOUYAT.pdf)
 
 
 ---
