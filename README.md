@@ -126,9 +126,9 @@ Directeur régional SONACOS
 📞 06 61 90 95 01
 
 ---
-[Télécharger mon CV (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/FR_HAMMOUYAT.pdf)
+[Télécharger mon CV (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/CVFR_HAMMOUYAT.pdf)
 
-[Download my Resume (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/ENG_HAMMOUYAT.pdf)
+[Download my Resume (PDF)](https://raw.githubusercontent.com/samawione-ctrl/MonCvFr/main/assets/img/CVENG_HAMMOUYAT.pdf)
 
 
 ---
